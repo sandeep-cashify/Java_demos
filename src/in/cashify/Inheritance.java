@@ -10,6 +10,6 @@ public class Inheritance extends Animals {
         I.eat();
     }
 
-}dfdsd
+}
 
 
