@@ -6,7 +6,7 @@ public class Animals {
 
     }
     Animals(){
-        this.run();
+        //this.run();
         System.out.println("Also sleeping");
     }
     public static void main(String[] args) {
