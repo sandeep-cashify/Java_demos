@@ -1,4 +1,4 @@
-package in.cashify;
+package in.cashify.single_inheritance;
 
 public class Inheritance extends Animals {
 

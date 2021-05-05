@@ -1,4 +1,4 @@
-package Method_overriding;
+package in.cashify.single_inheritance.Method_overriding;
 
 public class Vehical {
         public void run(){

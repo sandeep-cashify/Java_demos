@@ -1,4 +1,4 @@
-package Method_overriding;
+package in.cashify.single_inheritance.Method_overriding;
 
 public class Bike extends Vehical{
             public  void  run(){
@@ -10,5 +10,4 @@ public class Bike extends Vehical{
                 b.run();
             }
         }
-    }
-}
+
