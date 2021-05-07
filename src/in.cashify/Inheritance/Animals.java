@@ -1,4 +1,4 @@
-package in.cashify.single_inheritance;
+package in.cashify.Inheritance;
 
 public class Animals {
     public void run() {
