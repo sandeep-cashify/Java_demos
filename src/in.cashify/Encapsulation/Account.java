@@ -4,7 +4,6 @@ public class Account {
 
     private long acc_no;
     private String name,email;
-    private float amount;
 
     public long getAcc_no() {
         return acc_no;
